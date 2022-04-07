@@ -1,0 +1,14 @@
+body{
+    font-family: 'Rubik Microbe', cursive;
+    background-position: center;
+    background-size: cover;
+}
+
+.heading{
+    border: 3px ridge red;
+    border-radius:3px ;
+}
+
+canvas{
+    margin-top: 90px;
+}
